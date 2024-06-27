@@ -8,7 +8,7 @@ This is an interactive tutorial that will teach you how to create an API with No
 
 This project comes with the necessary files to start working immediately.
 
-We recommend opening this very same repository using a provisioning tool like [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) (recommended) or [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod). Alternatively, you can clone it on your local computer using the `git clone` command and follow the local installation instructions.
+We recommend opening this very same repository using a provisioning tool like [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) (recommended) or [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod). Alternatively, you can clone it on your local computer using the `git clone` command and follow the [local installation instructions](#local-installation-instructions-optional).
 
 This is the repository you need to open:
 
